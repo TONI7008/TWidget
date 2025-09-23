@@ -1,0 +1,3 @@
+C:/Users/Toni/Documents/cpp/TWidget/build/CMakeFiles/TWidget.dir
+C:/Users/Toni/Documents/cpp/TWidget/build/CMakeFiles/edit_cache.dir
+C:/Users/Toni/Documents/cpp/TWidget/build/CMakeFiles/rebuild_cache.dir

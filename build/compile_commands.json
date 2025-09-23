@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Toni/Documents/cpp/TWidget/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/Toni/Documents/cpp/TWidget/build -isystem C:/Qt/6.9.2/mingw_64/include/QtCore -isystem C:/Qt/6.9.2/mingw_64/include -isystem C:/Qt/6.9.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.2/mingw_64/include/QtGui -isystem C:/Qt/6.9.2/mingw_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\TWidget.dir\\main.cpp.obj -c C:\\Users\\Toni\\Documents\\cpp\\TWidget\\main.cpp",
+  "file": "C:/Users/Toni/Documents/cpp/TWidget/main.cpp",
+  "output": "C:/Users/Toni/Documents/cpp/TWidget/build/CMakeFiles/TWidget.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Toni/Documents/cpp/TWidget/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/Toni/Documents/cpp/TWidget/build -isystem C:/Qt/6.9.2/mingw_64/include/QtCore -isystem C:/Qt/6.9.2/mingw_64/include -isystem C:/Qt/6.9.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.2/mingw_64/include/QtGui -isystem C:/Qt/6.9.2/mingw_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\TWidget.dir\\widget.cpp.obj -c C:\\Users\\Toni\\Documents\\cpp\\TWidget\\widget.cpp",
+  "file": "C:/Users/Toni/Documents/cpp/TWidget/widget.cpp",
+  "output": "C:/Users/Toni/Documents/cpp/TWidget/build/CMakeFiles/TWidget.dir/widget.cpp.obj"
+},
+{
+  "directory": "C:/Users/Toni/Documents/cpp/TWidget/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/Toni/Documents/cpp/TWidget/build -isystem C:/Qt/6.9.2/mingw_64/include/QtCore -isystem C:/Qt/6.9.2/mingw_64/include -isystem C:/Qt/6.9.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.2/mingw_64/include/QtGui -isystem C:/Qt/6.9.2/mingw_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\TWidget.dir\\twidget.cpp.obj -c C:\\Users\\Toni\\Documents\\cpp\\TWidget\\twidget.cpp",
+  "file": "C:/Users/Toni/Documents/cpp/TWidget/twidget.cpp",
+  "output": "C:/Users/Toni/Documents/cpp/TWidget/build/CMakeFiles/TWidget.dir/twidget.cpp.obj"
+},
+{
+  "directory": "C:/Users/Toni/Documents/cpp/TWidget/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/Toni/Documents/cpp/TWidget/build -isystem C:/Qt/6.9.2/mingw_64/include/QtCore -isystem C:/Qt/6.9.2/mingw_64/include -isystem C:/Qt/6.9.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.2/mingw_64/include/QtGui -isystem C:/Qt/6.9.2/mingw_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\TWidget.dir\\moc_widget.cpp.obj -c C:\\Users\\Toni\\Documents\\cpp\\TWidget\\build\\moc_widget.cpp",
+  "file": "C:/Users/Toni/Documents/cpp/TWidget/build/moc_widget.cpp",
+  "output": "C:/Users/Toni/Documents/cpp/TWidget/build/CMakeFiles/TWidget.dir/moc_widget.cpp.obj"
+},
+{
+  "directory": "C:/Users/Toni/Documents/cpp/TWidget/build",
+  "command": "c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/Toni/Documents/cpp/TWidget/build -isystem C:/Qt/6.9.2/mingw_64/include/QtCore -isystem C:/Qt/6.9.2/mingw_64/include -isystem C:/Qt/6.9.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.2/mingw_64/include/QtGui -isystem C:/Qt/6.9.2/mingw_64/include/QtWidgets -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\TWidget.dir\\moc_twidget.cpp.obj -c C:\\Users\\Toni\\Documents\\cpp\\TWidget\\build\\moc_twidget.cpp",
+  "file": "C:/Users/Toni/Documents/cpp/TWidget/build/moc_twidget.cpp",
+  "output": "C:/Users/Toni/Documents/cpp/TWidget/build/CMakeFiles/TWidget.dir/moc_twidget.cpp.obj"
+}
+]

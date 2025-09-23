@@ -1,0 +1,17 @@
+# ninja log v6
+4	26	7803567549226209	ui_widget.h	ea15643261fc4097
+4	26	7803567549226209	C:/Users/Toni/Documents/cpp/TWidget/build/ui_widget.h	ea15643261fc4097
+8	35	7803567549316205	C:/Users/Toni/Documents/cpp/TWidget/build/moc_widget.cpp	2591221e0e1d21f
+8	35	7803567549316205	moc_widget.cpp	2591221e0e1d21f
+12	35	7803567549316205	moc_twidget.cpp	8c139a89324c6a13
+12	35	7803567549316205	C:/Users/Toni/Documents/cpp/TWidget/build/moc_twidget.cpp	8c139a89324c6a13
+36	1346	7803567549351200	CMakeFiles/TWidget.dir/main.cpp.obj	9ff6f473da4140c0
+41	1389	7803567549406209	CMakeFiles/TWidget.dir/moc_widget.cpp.obj	edac2299fb5125c
+43	1394	7803567549426216	CMakeFiles/TWidget.dir/moc_twidget.cpp.obj	fa7291b455238bbd
+39	1427	7803567549391204	CMakeFiles/TWidget.dir/twidget.cpp.obj	e758131cdcd09c03
+16	1318	7803571907017447	CMakeFiles/TWidget.dir/main.cpp.obj	de6eedcc062acf71
+22	1355	7803571907077466	CMakeFiles/TWidget.dir/moc_widget.cpp.obj	22552b6955f03a9b
+25	1388	7803571907102465	CMakeFiles/TWidget.dir/moc_twidget.cpp.obj	46f906b146b757be
+21	1395	7803571907062463	CMakeFiles/TWidget.dir/twidget.cpp.obj	f7670c9f6a7517ed
+19	1436	7803571907042451	CMakeFiles/TWidget.dir/widget.cpp.obj	95925f7bc2b6ff3
+1436	1578	7803571921217456	TWidget.exe	5a97191849445c1b

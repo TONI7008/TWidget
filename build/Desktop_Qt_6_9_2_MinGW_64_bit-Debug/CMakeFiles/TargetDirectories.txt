@@ -1,0 +1,3 @@
+C:/Users/Toni/Documents/cpp/TWidget/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/TWidget.dir
+C:/Users/Toni/Documents/cpp/TWidget/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Toni/Documents/cpp/TWidget/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir

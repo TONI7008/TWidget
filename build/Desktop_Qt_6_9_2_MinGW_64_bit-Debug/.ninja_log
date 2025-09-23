@@ -1,0 +1,11 @@
+# ninja log v6
+3	23	7803568409756198	ui_widget.h	2dd82c13b27a35aa
+3	23	7803568409756198	C:/Users/Toni/Documents/cpp/TWidget/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/ui_widget.h	2dd82c13b27a35aa
+11	33	7803568409851192	moc_twidget.cpp	a714d3805980a3cc
+11	33	7803568409851192	C:/Users/Toni/Documents/cpp/TWidget/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/moc_twidget.cpp	a714d3805980a3cc
+7	33	7803568409851192	moc_widget.cpp	91b873347662797e
+7	33	7803568409851192	C:/Users/Toni/Documents/cpp/TWidget/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/moc_widget.cpp	91b873347662797e
+33	1351	7803568409881202	CMakeFiles/TWidget.dir/main.cpp.obj	5b9d83df3d3c21d4
+38	1361	7803568409936214	CMakeFiles/TWidget.dir/moc_widget.cpp.obj	665acdeddbeba58e
+40	1388	7803568409956202	CMakeFiles/TWidget.dir/moc_twidget.cpp.obj	52d407682c30831a
+37	1399	7803568409921200	CMakeFiles/TWidget.dir/twidget.cpp.obj	b3ab55c58d313ad
